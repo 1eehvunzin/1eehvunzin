@@ -1,16 +1,33 @@
-## Hi there 👋
+# 1eehvunzin의 GitHub
 
-<!--
-**1eehvunzin/1eehvunzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 소개
+이름: 이현진
+소속 : 이화여자대학교 컴퓨터공학과
+학번 : 24학번
+관심분야: 웹 개발, Python 라이브러리를 사용한 백엔드 설계
 
-Here are some ideas to get you started:
+## 사용 및 경험 언어
++ Python
++ HTML, CSS, Javascript
++ C/C++
++ JAVA
++ Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 사용 및 경험 기술
++ Android Studio, VS code, Eclipse
++ Vue.js
++ OpenCV, Tensorflow
+
+## 프로젝트 이력
+### 
+
+### 공모전 경험
+1. 2024 공개 SW 개발자 대회
+
+<!--## 코딩, 알고리즘 대회 경험
+1. 
+
+## 수상 이력-->
+
+## 활동 경험
+  
