@@ -2,7 +2,7 @@
 
 ## 소개
 이름: 이현진<br>
-소속 : 이화여자대학교 컴퓨터공학과<br>
+소속 : 이화여자대학교 인공지능대학 컴퓨터공학과<br>
 학번 : 24학번<br>
 관심분야: 웹 개발, Python 라이브러리를 사용한 백엔드 설계<br>
 
@@ -16,6 +16,7 @@
 ## 사용 및 경험 기술
 + Android Studio, VS code, Eclipse
 + Vue.js
++ Flask
 + OpenCV, Tensorflow
 
 ## 프로젝트 이력
