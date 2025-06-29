@@ -22,7 +22,7 @@
 ## 프로젝트 이력
 ### 협업 프로젝트
 1. 수학 문제 데이터 증강 웹 -- 문복이 <br>
-   초기 버전 : https://github.com/hazipotato/openswproject
+   초기 버전 : https://github.com/hazipotato/openswproject <br>
    개선 버전 : 추후 업로드 예정
    + 2024 공개 SW 개발자 대회 참가
 
