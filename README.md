@@ -9,6 +9,7 @@
 ## 사용 및 경험 언어
 + Python
 + HTML, CSS, Javascript
++ Java
 + C/C++
 
 ## 사용 및 경험 기술
