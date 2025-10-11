@@ -24,6 +24,7 @@
 ## 프로젝트 이력
 ### 협업 프로젝트
 1.  초기 치매 발견을 위한 진단 웹 : DICE `2025.05`<br>
+   **https://github.com/1eehvunzin/dice**
     + 2025 국민행복서비스 발굴·창업경진대회 입선
     + React를 활용한 프론트엔드 구현
     + 보건의료빅데이터 개방시스템 창업경진대회 참가
@@ -36,7 +37,7 @@
    + Render에 올린 AI 모델(팀 내 개발)을 API로 서비스에서 호출
     
 3. 큐싱 예방 웹 게임 제작 `2025.10`<br>
-   [**https://github.com/1eehvunzin/hanium**](https://github.com/ECOPS-Qshing-TF/webgame)
+   **https://github.com/ECOPS-Qshing-TF/webgame**
    + 이화여대 정보보안 동아리 ECOPS KUCIS(대학정보보호동아리지원사업) 캠페인 TF 활동
    + React를 활용한 프론트엔드 구현
    + 게임 기획 참여
