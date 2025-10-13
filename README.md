@@ -40,7 +40,7 @@
    **https://github.com/ECOPS-Qshing-TF/webgame**
    + 이화여대 정보보안 동아리 ECOPS KUCIS(대학정보보호동아리지원사업) 캠페인 TF 활동
    + React를 활용한 프론트엔드 구현
-   + 게임 기획 참여
+   + 웹 게임 기획
      
 4. 새만금호 수질 시계열 예측 기반 수질 관리 위험도 시각화 히트맵 제작 `2025.07` <br>
    **https://colab.research.google.com/drive/1OXkUXnHFmEFGFFLDryQgbOHfvLTxAil8?usp=sharing**
