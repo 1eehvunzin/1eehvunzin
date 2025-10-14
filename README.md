@@ -39,6 +39,7 @@
 3. 큐싱 예방 웹 게임 제작 `2025.10`<br>
    **https://github.com/ECOPS-Qshing-TF/webgame**
    + 이화여대 정보보안 동아리 ECOPS KUCIS(대학정보보호동아리지원사업) 캠페인 TF 활동
+   + 배포 진행
    + React를 활용한 프론트엔드 구현
    + 웹 게임 기획
      
