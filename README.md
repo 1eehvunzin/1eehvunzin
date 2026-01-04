@@ -8,18 +8,18 @@
 
 ## 사용 및 경험 언어
 + Python
-+ HTML, CSS, Javascript
++ HTML, CSS, Javascript, Typescript
 + Java
 + C/C++
 
 ## 사용 및 경험 기술
-+ React.js
++ React
 + Vue.js
 + Flask
 + SpringBoot
 + LightGBM
 + YOLOv8
-+ OpenCV, Tensorflow
++ OpenCV
 
 ## 프로젝트 이력
 ### 협업 프로젝트
