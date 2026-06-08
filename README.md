@@ -27,27 +27,32 @@
    + 블레이버스 인사이트톤 참가
    + 이화여대 중앙 IT 실전창업학회 UNIS 7기 실전창업프로젝트
 
-2. 초기 치매 발견을 위한 진단 웹 : DICE `2025.05`<br>
+2. 잔반 테크 모바일 앱 SSAK
+   + 이화여대 기반 실전 창업팀
+   + React Native를 활용한 프론트엔드 구현
+   + Apple App Store 출시
+
+3. 초기 치매 발견을 위한 진단 웹 : DICE `2025.05`<br>
    **https://github.com/1eehvunzin/dice**
     + 2025 국민행복서비스 발굴·창업경진대회 입선
     + React를 활용한 프론트엔드 구현
     + 보건의료빅데이터 개방시스템 창업경진대회 참가
 
-3. AI 기반 전주기 약물 관리 서비스 `2025.08 ~ 2025.10`<br>
+4. AI 기반 전주기 약물 관리 서비스 `2025.08 ~ 2025.10`<br>
     **https://github.com/1eehvunzin/hanium**
    + 과기정통부 주최 2025 한이음 드림업 프로젝트 수료
    + React를 활용한 프론트엔드 구현
    + SpringBoot를 활용한 백엔드 구현
    + Render에 올린 AI 모델(팀 내 개발)을 API로 서비스에서 호출
     
-4. 큐싱 예방 웹 게임 제작 `2025.10`<br>
+5. 큐싱 예방 웹 게임 제작 `2025.10`<br>
    **https://github.com/ECOPS-Qshing-TF/webgame**
    + 이화여대 정보보안 동아리 ECOPS KUCIS(대학정보보호동아리지원사업) 캠페인 TF 활동
    + 배포 진행
    + React를 활용한 프론트엔드 구현
    + 웹 게임 기획
      
-5. 새만금호 수질 시계열 예측 기반 수질 관리 위험도 시각화 히트맵 제작 `2025.07` <br>
+6. 새만금호 수질 시계열 예측 기반 수질 관리 위험도 시각화 히트맵 제작 `2025.07` <br>
    **https://colab.research.google.com/drive/1OXkUXnHFmEFGFFLDryQgbOHfvLTxAil8?usp=sharing**
    + 수질 지표 데이터와 새만금호 좌표 데이터를 결합하여 호수 전체의 수질 상태를 시각화
    + LightGBM을 사용한 수질 시계열 예측 구현
@@ -55,13 +60,13 @@
    + 결과적으로 수질 관리 위험도를 나타내는 히트맵 제작
    + 2025 새만금 공공데이터 활용 경진대회 참가
 
-6. 데이터 기반 맞춤형 큐레이션 협업 마케팅 플랫폼 UNI:CONNECT `2025.08 ~ 2026.01` <br>
+7. 데이터 기반 맞춤형 큐레이션 협업 마케팅 플랫폼 UNI:CONNECT `2025.08 ~ 2026.01` <br>
    **https://github.com/Uniconnect-Dev**
    + 이화여대 중앙 창업 동아리 UNIS 실전창업프로젝트 활동
    + 연세대학교 창업지원단 예비창업패키지 Pre-Incubating Y-STAR 선정
    + React.ts 기반 프론트엔드 개발
   
-7. 국내 수학 문제집 최적화 OCR, 데이터 증강 SW개발 `2024.06 ~ 2024.08`<br>
+8. 국내 수학 문제집 최적화 OCR, 데이터 증강 SW개발 `2024.06 ~ 2024.08`<br>
    https://github.com/hazipotato/openswproject <br>
    + 2024 공개 SW 개발자 대회 참가
 
