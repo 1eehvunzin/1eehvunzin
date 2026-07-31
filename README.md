@@ -4,7 +4,7 @@
 
 Computer Science · Ewha Womans University
 
-[github.com/1eehvunzin](https://github.com/1eehvunzin) · your.email@ewha.ac.kr
+[github.com/1eehvunzin](https://github.com/1eehvunzin) · [linkedin.com/in/1eehvunzin](https://www.linkedin.com/in/1eehvunzin/)
 
 </div>
 
@@ -32,12 +32,11 @@ Building AI systems and thinking about how to make them safer.
 
 <br>
 
-## Projects
+## Selected Projects
 
 |  |  |
 |:--|--:|
 | **IDly** — AI-based email account security service<br>`python` `isolation forest` `hdbscan` | 2025 |
-| **한이음 드림업** — End-to-end AI medication management service<br>`react` `spring boot` | 2025.08 – 2025.10 |
 | **DICE** — Early dementia screening web app<br>`react` · Awarded, 국민행복서비스 발굴·창업경진대회 | 2025.05 |
 | **UNI:CONNECT** — Curated marketing platform for university students<br>`react.ts` | 2025.08 – 2026.01 |
 | **SSAK** — Food-waste tracking app, shipped on the App Store<br>`react native` | — |
