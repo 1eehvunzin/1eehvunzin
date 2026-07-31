@@ -1,63 +1,67 @@
-<h1 align="center">이현진</h1>
-<p align="center"><i>AI가 안전하게 쓰이는 방법을 고민하는 개발자</i></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=550&lines=Computer+Science+%40+Ewha+Womans+University;LLM+Security+Researcher+%40+Yonsei+AI+Security+Lab;Co-founder+%40+IDly" />
-</p>
+# Hyunjin Lee
 
-<br>
+<sub>Computer Science · Ewha Womans University</sub>
 
-## Profile
-
-|  |  |
-|---|---|
-| 🎓 | 이화여자대학교 컴퓨터공학과 · 사이버보안 부전공 |
-| 🔬 | 연세대학교 AI Security Lab — LLM 보안 연구 인턴 |
-| 🚀 | UNIS 7기 기획관리팀장 · IDly(계정아파트) 공동창업 |
-| 🏅 | 2025 국민행복서비스 발굴·창업경진대회 입선 |
+</div>
 
 <br>
 
-## Stack
-
-`Python` `TypeScript` `JavaScript` `Java` `C/C++`
-
-`React` `React Native` `Vue.js` — Frontend
-`Flask` `Spring Boot` `FastAPI` — Backend
-`LightGBM` `YOLOv8` `OpenCV` — AI/ML
-`Render` `Vercel` `Google Cloud` — Infra
+Building AI systems and thinking about how to make them safer.
+Currently researching LLM security at Yonsei University, and building
+IDly, an AI-based email account security service.
 
 <br>
 
-## Projects
+### ㅡ Stack
 
-**IDly (계정아파트)**
-Gmail OAuth 기반 AI 이메일 계정 보안 서비스. Isolation Forest·TF-IDF·HDBSCAN으로 이상 계정 탐지, '아파트' UI로 시각화.
+```
+python   typescript   javascript   java   c/c++
 
-**SSAK**
-잔반 테크 모바일 앱. React Native로 구현, App Store 출시.
+react   react native   vue.js
 
-**DICE**
-초기 치매 발견 진단 웹. 2025 국민행복서비스 발굴·창업경진대회 입선작.
+flask   spring boot   fastapi
 
-**한이음 드림업 — AI 약물 관리 서비스**
-React + Spring Boot, AI 모델은 별도 서버에 배포 후 API로 연동.
-
-**UNI:CONNECT**
-데이터 기반 맞춤형 큐레이션 협업 마케팅 플랫폼. React.ts 기반.
+lightgbm   yolov8   opencv
+```
 
 <br>
 
-## GitHub
+### ㅡ Work
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1eehvunzin&show_icons=true&hide_title=true&theme=transparent&hide_border=true&text_color=333&icon_color=6C63FF&title_color=6C63FF" />
-</p>
+**IDly** — AI-based email account security service
+`python` `isolation forest` `hdbscan`
+
+**SSAK** — Food-waste tracking app, shipped on the App Store
+`react native`
+
+**DICE** — Early dementia screening web app
+`react` · Awarded, 국민행복서비스 발굴·창업경진대회
+
+**한이음 드림업** — End-to-end AI medication management service
+`react` `spring boot`
+
+**UNI:CONNECT** — Curated marketing platform for university students
+`react.ts`
 
 <br>
 
-## Contact
+### ㅡ Now
 
-`GitHub` [@1eehvunzin](https://github.com/1eehvunzin) · `Email` your.email@ewha.ac.kr
+- LLM Security Research Intern, AI Security Lab @ Yonsei University
+- 기획관리팀장, UNIS 7th
 
-<br><br>
+<br>
+
+### ㅡ Elsewhere
+
+[github.com/1eehvunzin](https://github.com/1eehvunzin) · your.email@ewha.ac.kr
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=1eehvunzin&show_icons=true&hide_title=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000" height="150"/>
+</div>
+
+<br>
