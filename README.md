@@ -2,62 +2,64 @@
 
 # Hyunjin Lee
 
-<sub>Computer Science · Ewha Womans University</sub>
+Computer Science · Ewha Womans University
+
+[github.com/1eehvunzin](https://github.com/1eehvunzin) · your.email@ewha.ac.kr
 
 </div>
 
 <br>
 
 Building AI systems and thinking about how to make them safer.
-Currently researching LLM security at Yonsei University, and building
-IDly, an AI-based email account security service.
 
 <br>
 
-### ㅡ Stack
+## Education
 
-```
-python   typescript   javascript   java   c/c++
-
-react   react native   vue.js
-
-flask   spring boot   fastapi
-
-lightgbm   yolov8   opencv
-```
+|  |  |
+|:--|--:|
+| **Ewha Womans University**<br>B.S. Computer Science, Cybersecurity Minor | 2024 – Present |
 
 <br>
 
-### ㅡ Work
+## Experience
 
-**IDly** — AI-based email account security service
-`python` `isolation forest` `hdbscan`
-
-**SSAK** — Food-waste tracking app, shipped on the App Store
-`react native`
-
-**DICE** — Early dementia screening web app
-`react` · Awarded, 국민행복서비스 발굴·창업경진대회
-
-**한이음 드림업** — End-to-end AI medication management service
-`react` `spring boot`
-
-**UNI:CONNECT** — Curated marketing platform for university students
-`react.ts`
+|  |  |
+|:--|--:|
+| **LLM Security Research Intern**<br>AI Security Lab, Yonsei University | 2026.06 – Present |
+| **기획관리팀장**<br>UNIS (이화여대 중앙 실전창업학회), 7th | 2025.08 – Present |
+| **Co-founder, AI/Engineering Lead**<br>IDly (계정아파트) | 2025 – Present |
 
 <br>
 
-### ㅡ Now
+## Projects
 
-- LLM Security Research Intern, AI Security Lab @ Yonsei University
-- 기획관리팀장, UNIS 7th
-- Founder & Tech Lead @IDly
+|  |  |
+|:--|--:|
+| **IDly** — AI-based email account security service<br>`python` `isolation forest` `hdbscan` | 2025 |
+| **한이음 드림업** — End-to-end AI medication management service<br>`react` `spring boot` | 2025.08 – 2025.10 |
+| **DICE** — Early dementia screening web app<br>`react` · Awarded, 국민행복서비스 발굴·창업경진대회 | 2025.05 |
+| **UNI:CONNECT** — Curated marketing platform for university students<br>`react.ts` | 2025.08 – 2026.01 |
+| **SSAK** — Food-waste tracking app, shipped on the App Store<br>`react native` | — |
 
 <br>
 
-### ㅡ Elsewhere
+## Skills
 
-[github.com/1eehvunzin](https://github.com/1eehvunzin) · your.email@ewha.ac.kr
+**Languages** `python` `typescript` `javascript` `java` `c/c++`
+**Frontend** `react` `react native` `vue.js`
+**Backend** `flask` `spring boot` `fastapi`
+**AI / ML** `lightgbm` `yolov8` `opencv`
+
+<br>
+
+## Awards & Activities
+
+|  |  |
+|:--|--:|
+| 입선, 국민행복서비스 발굴·창업경진대회 | 2025 |
+| E-COPS, 이화여대 정보보안동아리 | 2025.09 – Present |
+| 한이음 드림업 프로젝트 수료 | 2025.08 – 2025.10 |
 
 <br>
 
