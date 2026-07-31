@@ -5,6 +5,7 @@
 Computer Science · Ewha Womans University
 
 [github.com/1eehvunzin](https://github.com/1eehvunzin) · [linkedin.com/in/1eehvunzin](https://www.linkedin.com/in/1eehvunzin/)
+[Portfolio](https://personalweb-alpha-lilac.vercel.app/)
 
 </div>
 
