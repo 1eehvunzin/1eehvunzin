@@ -51,6 +51,7 @@ lightgbm   yolov8   opencv
 
 - LLM Security Research Intern, AI Security Lab @ Yonsei University
 - 기획관리팀장, UNIS 7th
+- Founder & Tech Lead @IDly
 
 <br>
 
